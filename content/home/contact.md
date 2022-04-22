@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: barbara.elashoff@berkeley.edu
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
-    city: Stanford
+    city: San Mateo
     region: CA
-    postcode: '94305'
+    postcode: '94403'
     country: United States
     country_code: US
   coordinates:
